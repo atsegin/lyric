@@ -6,12 +6,18 @@
       "name": "Avril Lavigne",
       "description": "Album of Avril Lavigne",
       "url": "https://safebookpdf.gq/tag/avril-lavigne",
+      "category": "general",
+      "language": "en",
+      "country": "us"
     },
     -{
       "id": "mariah-carey",
       "name": "Mariah Carey",
       "description": "Album of Mariah Carey",
       "url": "https://safebookpdf.gq/tag/mariah-carey/",
+      "category": "general",
+      "language": "en",
+      "country": "us"
     }
   ]
 }
