@@ -1,7 +1,7 @@
 {
    "status": "ok",
    "totalResults": 2,
-   "articles": [
+   "listartist": [
       {
          "source": {
             "id": "mariah-carey",
@@ -16,7 +16,7 @@
          "content": "Audi said it is taking refundable $1,000 deposits for the E-Tron starting now. Prices will start at about $75,000 or $86,700 for well-equipped \"First Edition\" models. It's the first of three new electric vehicles Audi will introduce over the next few years. T… [+4111 chars]"
       },
       {
-         -"source": {
+         "source": {
             "id": "mariah-carey",
             "name": "Mariah Carey"
             },
