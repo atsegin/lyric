@@ -1,32 +1,45 @@
 {
-   "status": "ok",
-   "totalResults": 2,
-   "listartist": [
+   "status":"ok",
+   "totalResults":2,
+   "listartist":[
       {
-         "source": {
-            "id": "mariah-carey",
-            "name": "Mariah Carey"
-            },
-         "author": "admin",
-         "title": "Mariah Carey – Against All Odds (Take a Look at Me Now) ft. Westlife",
-         "description": "Against all odds lyric",
-         "url": "https://safebookpdf.gq/mariah-carey-against-all-odds-take-a-look-at-me-now-ft-westlife/",
-         "urlToImage": "https://i2.cdn.turner.com/money/dam/assets/180917154958-01-audi-e-tron-780x439.jpg",
-         "publishedAt": "2018-09-18T09:21:32Z",
-         "content": "Audi said it is taking refundable $1,000 deposits for the E-Tron starting now. Prices will start at about $75,000 or $86,700 for well-equipped \"First Edition\" models. It's the first of three new electric vehicles Audi will introduce over the next few years. T… [+4111 chars]"
+         "source":{
+            "id":"mariah-carey",
+            "name":"Mariah Carey"
+         },
+         "author":"Mariah Carey",
+         "title":"Against All Odds (Take a Look at Me Now) ft. Westlife",
+         "description":"...",
+         "url":"https://safebookpdf.gq/mariah-carey-against-all-odds-take-a-look-at-me-now-ft-westlife/",
+         "urlToImage":"https://safebookpdf.gq/wp-content/uploads/2018/08/MariahCarey.jpg",
+         "publishedAt":"2018-09-23T10:17:21Z",
+         "content":null
       },
       {
-         "source": {
-            "id": "mariah-carey",
-            "name": "Mariah Carey"
-            },
-         "author": "admin",
-         "title": "Mariah Carey – Without You",
-         "description": "Without You lyric,
-         "url": "https://safebookpdf.gq/mariah-carey-without-you/",
-         "urlToImage": "https://i2.cdn.turner.com/money/dam/assets/180917154958-01-audi-e-tron-780x439.jpg",
-         "publishedAt": "2018-09-18T09:21:32Z",
-         "content": "Audi said it is taking refundable $1,000 deposits for the E-Tron starting now. Prices will start at about $75,000 or $86,700 for well-equipped \"First Edition\" models. It's the first of three new electric vehicles Audi will introduce over the next few years. T… [+4111 chars]"
+         "source":{
+            "id":"mariah-carey",
+            "name":"Mariah Carey"
+         },
+         "author":"Mariah Carey",
+         "title":"I Still Believe",
+         "description":"...",
+         "url":"https://safebookpdf.gq/mariah-carey-i-still-believe/",
+         "urlToImage":"https://safebookpdf.gq/wp-content/uploads/2018/08/MariahCarey.jpg",
+         "publishedAt":"2018-08-23T10:17:21Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"mariah-carey",
+            "name":"Mariah Carey"
+         },
+         "author":"Mariah Carey",
+         "title":"Without You",
+         "description":"...",
+         "url":"https://safebookpdf.gq/mariah-carey-without-you/",
+         "urlToImage":"https://safebookpdf.gq/wp-content/uploads/2018/08/MariahCarey.jpg",
+         "publishedAt":"2018-09-23T10:01:24Z",
+         "content":null
       }
    ]
 }
